@@ -17,6 +17,10 @@
         "$type": "fontWeights",
         "$value": "Regular"
       }
+    },
+    "ny-font": {
+      "$type": "fontFamilies",
+      "$value": "Helvetica"
     }
   }
 }
